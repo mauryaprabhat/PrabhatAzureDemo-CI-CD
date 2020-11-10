@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrabhatAzureDemo01-CI-CD", "PrabhatAzureDemo01-CI-CD\PrabhatAzureDemo01-CI-CD.csproj", "{6A539291-20B6-48B7-9F00-0916842154E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A539291-20B6-48B7-9F00-0916842154E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A539291-20B6-48B7-9F00-0916842154E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A539291-20B6-48B7-9F00-0916842154E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A539291-20B6-48B7-9F00-0916842154E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2EB787-5F15-4CE9-B306-5E9741467D80}
+	EndGlobalSection
+EndGlobal
